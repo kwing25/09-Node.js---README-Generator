@@ -19,7 +19,7 @@ This application lets users create a quick README.md file for their projects. To
 
 ## Demo:
 
-
+![Demo Pics of terminal](/Users/kendrawing/Documents/Coding Bootcamp /Personal Repository/09-Node.js---README-Generator/demo/ReadmeGenerator DemoPic1.png
 
 ## Usage: 
 
