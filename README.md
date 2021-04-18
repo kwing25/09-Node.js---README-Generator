@@ -1,6 +1,6 @@
 # README Generator - using Node.Js
 
-##### Author: Kendra Wing April 18, 2021
+##### Author: Kendra Wing
 ---
 
 ## Description:
@@ -16,10 +16,20 @@ This application lets users create a quick README.md file for their projects. To
     * Usage Type
     * Project Contributors
 
-
+---
 ## Demo:
 
-![Demo Pics of terminal](/Users/kendrawing/Documents/Coding Bootcamp /Personal Repository/09-Node.js---README-Generator/demo/ReadmeGenerator DemoPic1.png
+* Video of Readme Generator Demo - https://drive.google.com/file/d/1EPCPaDoaNq7q3H4oxRvCJ9BuGdVYp9nK/view
+
+
+* Screenshot Pics of Readme Generator Demo -
+![Demo Pic of terminal](https://github.com/kwing25/09-Node.js---README-Generator/blob/main/demo/ReadmeGenerator%20DemoPic1.png?raw=true) 
+![Demo Pic of terminal](https://github.com/kwing25/09-Node.js---README-Generator/blob/main/demo/ReadmeGenerator%20DemoPic2.png?raw=true)
+![Demo Pic of Opening of Readme](https://github.com/kwing25/09-Node.js---README-Generator/blob/main/demo/ReadmeGenerator%20DemoPic3.png?raw=true)
+![Demo Pic of Markdown Readme](https://github.com/kwing25/09-Node.js---README-Generator/blob/main/demo/Readme%20File.png?raw=true)
+![Demo Pic of Preview Readme](https://github.com/kwing25/09-Node.js---README-Generator/blob/main/demo/Readme%20File%20Preview%20Version.png?raw=true)
+---
+
 
 ## Usage: 
 
@@ -37,10 +47,13 @@ node index.js
 * VS Code
 
 
+
 ## GitHub Link:
 
 * [GitHub Repo](https://github.com/kwing25/09-Node.js---README-Generator) 
 
 
+
 ## Status & Updates:
 
+> Published on Sunday April 18, 2021
